@@ -1,0 +1,8 @@
+site_name: My Python Project
+
+nav:
+    - Home: index.md
+    
+    
+theme: readthedocs
+

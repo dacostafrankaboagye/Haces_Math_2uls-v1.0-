@@ -1,0 +1,4 @@
+go into: my-project --> (then move to) --> site --> (then move to) --> index
+	 
+	 
+	 	
