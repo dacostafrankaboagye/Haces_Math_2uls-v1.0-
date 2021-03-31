@@ -545,7 +545,7 @@ And so some values would not produce a perfect line
 
 
 <hr>
- <em>Frank Aboagye. Python project &copy; 2020. Ashesi University &reg;</em>
+ <em>Frank Aboagye. Python project &copy; 2020. &reg;</em>
 <hr>
 
 
