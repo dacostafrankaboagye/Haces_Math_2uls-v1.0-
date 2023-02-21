@@ -4,7 +4,7 @@
 ## 
     Name: Frank Aboagye
 
-    Id: #70722023
+
 
 Introduction:
 Realising that most Junior & Senior High Schools find difficulty, in certain maths areas like graphs, quadratics and so on, I decided to come up with an application that would help these students.
